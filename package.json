@@ -2,7 +2,19 @@
   "name": "editorjs-mathlive",
   "version": "1.0.0",
   "description": "math editor for editorjs",
-  "author": "<uk2459644@gmail.com>",
+  "repository": "https://github.com/uk2459644/editorjs-mathlive",
+  "author": {
+    "name": "Upendra Kumar",
+    "email": "uk2459644@gmail.com"
+  },
+  "keywords": [
+    "codex",
+    "codex-editor",
+    "mathlive",
+    "editorjs-mathlive",
+    "editor.js",
+    "editorjs"
+  ],
   "license": "MIT",
   "main": "./dist/bundle.js",
   "scripts": {
