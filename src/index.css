@@ -1,0 +1,38 @@
+
+.cdx-math-primary {
+    color: #2b6cb0;
+}
+
+.cdx-math-info {
+    color: #ecb939;
+}
+
+.cdx-math-secondary {
+    color: #010057;
+}
+.cdx-math-warning {
+  color: #800000
+}
+
+.cdx-math-success {
+    color:#008080
+}
+
+.cdx-math-choco {
+    color: #5c3c3a
+}
+
+.cdx-math-pink {
+    color:#db0961
+}
+.cdx-math-danger {
+    color: #c53030;
+}
+
+.cdx-math-light {
+    color: #372e29;
+  }
+  
+  .cdx-math-dark {
+    color: #d3d3d3;
+  }
