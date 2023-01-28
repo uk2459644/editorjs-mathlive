@@ -1,8 +1,9 @@
+
 # MathEditor tool
 
 The MathEditor Block for the [Editor.js](https://editorjs.io). 
 
-![screenshot](editorjs-mathlive.png)
+![editorjs-mathlive](https://user-images.githubusercontent.com/75515703/215251180-38535c5e-2b87-4c1c-87d5-68629cdf97d1.png)
 
 ## Installation
 
