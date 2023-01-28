@@ -2,7 +2,7 @@
 
 The MathEditor Block for the [Editor.js](https://editorjs.io). 
 
-![](https://capella.pics/41294cec-a2b3-4157-8399-ffefed3d8ffd.jpg)
+![](https://photos.app.goo.gl/NGATd7rQa3fh6vV7A)
 
 ## Installation
 
