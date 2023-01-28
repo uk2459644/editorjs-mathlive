@@ -2,7 +2,7 @@
 
 The MathEditor Block for the [Editor.js](https://editorjs.io). 
 
-![](https://photos.app.goo.gl/NGATd7rQa3fh6vV7A)
+![](https://github.com/uk2459644/editorjs-mathlive/blob/main/editorjs-mathlive.png)
 
 ## Installation
 
