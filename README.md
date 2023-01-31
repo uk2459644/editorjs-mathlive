@@ -3,8 +3,12 @@
 
 The MathEditor Block for the [Editor.js](https://editorjs.io). 
 
-![editorjs-mathlive](https://user-images.githubusercontent.com/75515703/215251180-38535c5e-2b87-4c1c-87d5-68629cdf97d1.png)
 
+![editorjs-mathlive](https://user-images.githubusercontent.com/75515703/215652012-8c6bd2aa-babf-4f3f-8ec8-92b2610d7af3.gif)
+
+<!-- 
+![editorjs-mathlive](https://user-images.githubusercontent.com/75515703/215251180-38535c5e-2b87-4c1c-87d5-68629cdf97d1.png)
+ -->
 ## Installation
 
 Get the package
